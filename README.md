@@ -4,6 +4,7 @@
 - Guilherme Tagliari - 1134870
 - Lorenzo Pasa - 1134869
 - João Ricardo - 1134269
+- Alan Godoi - 1135335
 
 ## Descrição
 
